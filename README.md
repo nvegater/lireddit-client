@@ -1,23 +1,17 @@
-# Example app with [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+https://www.youtube.com/watch?v=I6ypD7qv3Z8&ab_channel=BenAwad 
+Session1:
+Server: 00:00 - 11:31
+Minutes Covered = 11.516
+Client: min 2:08:44 - 02:14:09
+Minutes Covered: (120 + 8 + 44/60 = 128,733) - (120 + 14 + 09/60 = 134,15)  = 5,417
 
-This example features how to use [chakra-ui](https://github.com/chakra-ui/chakra-ui) as the component library within a Next.js app.
+Total minutes covered in First lesson= 11,516 + 5,417 = 16,933
 
-We are connecting the Next.js `_app.tsx` with `chakra-ui`'s Theme and ColorMode containers so the pages can have app-wide dark/light mode. We are also creating some components which shows the usage of `chakra-ui`'s style props.
+TOTAl tutorial
+14:00:00 = 14*60 = 840 mins 
 
-## Deploy your own
+Faltan = 840 - 16,933 = 823,067 mins para terminar el tutorial = 13,71 Hrs
 
-Deploy the example using [Vercel](https://vercel.com):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-chakra-ui&project-name=with-chakra-ui&repository-name=with-chakra-ui)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-chakra-ui with-chakra-ui-app
-# or
-yarn create next-app --example with-chakra-ui with-chakra-ui-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Cuantas semanas para terminar, si se cubren 16 mins del tutorial cada semana.
+16*x = 823,067
+x = 51,44 semanas
